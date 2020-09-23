@@ -22,14 +22,14 @@
         
       //Write the code that changes the variables
       int myAge1 = 16;
-      double myHeightInMetres1 = 1.88;
+      double myHeightInMetres2 = 1.88;
         
         //Print the new values
          System.out.println("Some time passes...");
         
         // Write the last two print statements
         System.out.println("I am now " + myAge1 + " years old.");
-        System.out.println("I have grown and am " + myHeightInMetres1 + " m tall.");
+        System.out.println("I have grown and am " + myHeightInMetres2 + " m tall.");
     }
 }
 
